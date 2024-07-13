@@ -1,0 +1,11 @@
+{
+    "welcome_message": "First 5 Entries:",
+    "no_entries_message": "No entries found.",
+    "search_prompt": "Enter text to search (or 'exit' to quit): ",
+    "search_results": "Search Results:",
+    "buy_prompt": "Do you want to mark any item as 'order created'? (yes/no): ",
+    "enter_id_prompt": "Enter the ID of the item you want to mark as 'order created': ",
+    "order_created_message": "Entry ID {entry_id} marked as order created.",
+    "already_ordered_message": "Entry ID {entry_id} already has an order created or does not exist.",
+    "no_matching_entries": "No matching entries found."
+}

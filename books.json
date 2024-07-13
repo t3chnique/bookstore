@@ -1,0 +1,42 @@
+[
+    {
+        "title": "To Kill a Mockingbird",
+        "description": "A novel by Harper Lee published in 1960."
+    },
+    {
+        "title": "1984",
+        "description": "A novel by George Orwell published in 1949."
+    },
+    {
+        "title": "Pride and Prejudice",
+        "description": "A novel by Jane Austen published in 1813."
+    },
+    {
+        "title": "The Great Gatsby",
+        "description": "A novel by F. Scott Fitzgerald published in 1925."
+    },
+    {
+        "title": "Moby-Dick",
+        "description": "A novel by Herman Melville published in 1851."
+    },
+    {
+        "title": "War and Peace",
+        "description": "A novel by Leo Tolstoy published in 1869."
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "description": "A novel by J.D. Salinger published in 1951."
+    },
+    {
+        "title": "The Hobbit",
+        "description": "A novel by J.R.R. Tolkien published in 1937."
+    },
+    {
+        "title": "Ulysses",
+        "description": "A novel by James Joyce published in 1922."
+    },
+    {
+        "title": "The Odyssey",
+        "description": "An epic poem attributed to Homer."
+    }
+]

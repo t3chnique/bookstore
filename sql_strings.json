@@ -1,0 +1,8 @@
+{
+    "create_table": "CREATE TABLE IF NOT EXISTS entries (id INTEGER PRIMARY KEY AUTOINCREMENT, title TEXT NOT NULL, description TEXT NOT NULL)",
+    "count_entries": "SELECT COUNT(*) FROM entries",
+    "insert_entries": "INSERT INTO entries (title, description) VALUES (?, ?)",
+    "select_first_five": "SELECT * FROM entries LIMIT 5",
+    "search_entries": "SELECT * FROM entries WHERE title LIKE ? OR description LIKE ?",
+    "mark_order_created": "UPDATE entries SET description = description || ' (order created)' WHERE id = ? AND description NOT LIKE '%(order created)%'"
+}
